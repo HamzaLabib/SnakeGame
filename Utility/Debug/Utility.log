@@ -1,0 +1,15 @@
+﻿  Console.cpp
+  ConsoleMenu.cpp
+  ConsoleReader.cpp
+  ConsoleWriter.cpp
+  Coordinate.cpp
+  Currency.cpp
+  Date.cpp
+  DateTime.cpp
+  Math.cpp
+  Position.cpp
+  Random.cpp
+  Strings.cpp
+  Time.cpp
+  Generating Code...
+  Utility.vcxproj -> D:\Canada\ISI\Semester 1\4.Object Oriented\Projects\Solutions\Solution1\Debug\Utility.lib
